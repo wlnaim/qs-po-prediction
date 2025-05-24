@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/81bd2e8d-1a30-47b7-8c00-3f2a2acad016/resourceGroups/rg-qs-mlv5/providers/Microsoft.Web/sites/qs-po-prediction",
+    "appService.deploySubpath": "."
+}
